@@ -40,6 +40,6 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sushantmangore)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-brightgreen)](https://your-3d-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-contact-red)](mailto:sushantmangore.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sushant-mangore/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-brightgreen)](https://sushant-coder-01.github.io/My-Portfolio)
+[![Email](https://img.shields.io/badge/Email-contact-red)](mailto:sushantmangore45@gmail.com)
